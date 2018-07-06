@@ -3,6 +3,16 @@ body {
 	margin: 0;
 	padding: 0;
 }
+
+/*
 div {
 	height: 100%;
+}
+*/
+
+.fullHeight {
+	height: 100%;
+}
+.instructions {
+	font-style: italic;
 }

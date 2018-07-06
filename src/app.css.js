@@ -1,15 +1,17 @@
 const style = {
 	root: {
-		backgroundColor: 'purple',
+		height: '100%',
+		backgroundColor: 'black',
 		fontFamily: 'avenir',
 		color: 'white',
 		display: 'flex',
 		alignItems: 'center',
-		justifyContent: 'center',
-		flexDirection: 'column'
+		//justifyContent: 'center',
+		flexDirection: 'column',
+		padding: '10% 0px 0px 0px'
 	},
 	button: {
-		backgroundColor: 'purple',
+		backgroundColor: 'red',
 		color: 'white',
 		padding: '16px',
 		borderRadius: '4px',
